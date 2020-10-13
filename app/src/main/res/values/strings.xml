@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProjetoPesquisaEleitoral</string>
+    <string name="main_txt1">Pesquisa de intençao de votos!</string>
+    <string name="main_txt2">Escolha seu candidato!</string>
+    <string name="candidato">Candidato \n Partido\n</string>
+    <string name="main_show_results">Mostrar Resultado?</string>
+    <string name="activity_result_resultado">Resultado!</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_resultado">ResultadoActivity</string>
+</resources>
